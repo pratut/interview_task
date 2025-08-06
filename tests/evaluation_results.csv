@@ -1,0 +1,13 @@
+chunking,embedding_model,query,precision,latency_sec
+recursive,MiniLM,What is artificial intelligence?,1.0,5.144256830215454
+recursive,MiniLM,Explain deep learning,1.0,4.488329172134399
+recursive,MiniLM,Machine learning applications,1.0,6.513584613800049
+recursive,DistilBERT,What is artificial intelligence?,1.0,5.128923654556274
+recursive,DistilBERT,Explain deep learning,1.0,4.9714515209198
+recursive,DistilBERT,Machine learning applications,1.0,5.402269601821899
+fixed,MiniLM,What is artificial intelligence?,1.0,5.255774974822998
+fixed,MiniLM,Explain deep learning,1.0,4.907357931137085
+fixed,MiniLM,Machine learning applications,1.0,6.483874320983887
+fixed,DistilBERT,What is artificial intelligence?,1.0,5.503663063049316
+fixed,DistilBERT,Explain deep learning,1.0,5.262491941452026
+fixed,DistilBERT,Machine learning applications,1.0,5.071137189865112
